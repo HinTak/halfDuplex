@@ -1,7 +1,7 @@
 # halfDuplex
 half duplex audio communication
 
-Run ./haldDuplex.sh user@host
+Run ./halfDuplex.sh user@host
 
 Implemented in bash and uses ssh, ffmpeg and screen.
 
